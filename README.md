@@ -28,7 +28,7 @@ A simple Discord bot that allows users to play a **coinflip game** and manage th
 #### How to Use:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/coinflip-bot.git
+   git clone https://github.com/ignJoy/coinflip.git
    ```
 2. Install dependencies:
    ```bash
